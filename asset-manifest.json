@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.b594be17.js",
+    "main.css": "/static/css/main.e9b9514e.css",
+    "main.js": "/static/js/main.b7ea9b8d.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/PlayfairDisplay-Medium.ttf": "/static/media/PlayfairDisplay-Medium.8aa05b9c598ac2a736d9.ttf",
+    "static/media/PlayfairDisplay-Bold.ttf": "/static/media/PlayfairDisplay-Bold.a44ebc27b80d88dc868d.ttf",
+    "static/media/PlayfairDisplay-Regular.ttf": "/static/media/PlayfairDisplay-Regular.693728812dc43ab34710.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/static/media/RobotoSlab-Bold.37f7c30bbfc1ebae4939.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/static/media/RobotoSlab-Regular.51fdb083efba0dd8a5ea.ttf",
+    "static/media/RobotoFlex-Regular.ttf": "/static/media/RobotoFlex-Regular.34b447cc3641782c240a.ttf",
     "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.b594be17.js.map": "/static/js/main.b594be17.js.map",
+    "main.e9b9514e.css.map": "/static/css/main.e9b9514e.css.map",
+    "main.b7ea9b8d.js.map": "/static/js/main.b7ea9b8d.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.b594be17.js"
+    "static/css/main.e9b9514e.css",
+    "static/js/main.b7ea9b8d.js"
   ]
 }
